@@ -1,0 +1,43 @@
+.faqs {
+    min-height: 90vh;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.headerContainer {
+    width: auto;
+
+}
+
+.faqs.headerContainer h1 {
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-family: 'Times New Roman';
+}
+
+.faqs .headerContainer h1 {
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 60px;
+    font-family: 'Times New Roman';
+    color: black;
+
+
+}
+
+.faqs .headerContainer h2{
+    margin-top: 15px;
+    padding: 0;
+    font-size: 40px;
+    font-family: 'Times New Romanz';
+    font-weight: lighter;
+    color:black;
+}
+
